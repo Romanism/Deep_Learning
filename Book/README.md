@@ -1,4 +1,4 @@
-## Machine Learning Books
+## Deep Learning Books
 
 ![cover](cover.jpg)
 
